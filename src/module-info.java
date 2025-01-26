@@ -3,6 +3,4 @@ module BFSPuzzleSolver {
     exports puzzles.common.solver;
     exports puzzles.astro.gui;
     exports puzzles.astro.model;
-    exports puzzles.hoppers.gui;
-    exports puzzles.hoppers.model;
 }
